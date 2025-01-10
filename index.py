@@ -80,3 +80,6 @@ if scelta==0:
 
 if scelta==1:
     gestfile()
+
+
+#QUI DA CONTINUARE QUNADO FINITO IL PROGRAMMA DEL TRIANGOLO
